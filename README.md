@@ -12,7 +12,7 @@
     <a href="https://fosstodon.org/@marlinfirmware"><img alt="Follow MarlinFirmware on Mastodon" src="https://img.shields.io/mastodon/follow/109450200866020466?domain=https%3A%2F%2Ffosstodon.org&logoColor=%2300B&style=social"></a>
 </p>
 <p align="center">
-  <b>⚠️ Note importante :</b> Ce firmware est une version personnalisée basée sur <b>Marlin</b>, intégrant des configurations et optimisations issues de <b>BigTreeTech</b>.
+  <b>⚠️ Note importante :</b> Ce firmware est une version personnalisée basée sur <b>Marlin</b>, intégrant des configurations et optimisations issues de <b>BigTreeTech</b>. Les modifications apportées ici sont spécifiquement conçues et optimisées pour l'imprimante <b>Creality Ender 3 Pro</b>.
 </p>
 
 Additional documentation can be found at the [Marlin Home Page](//marlinfw.org/).
@@ -138,6 +138,13 @@ Name|Role|Link|Donate
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MarlinFirmware/Marlin&type=Date" />
   </picture>
 </a>
+
+## Crédits
+
+Ce projet est basé sur :
+- **[Marlin Firmware](https://marlinfw.org/)** : pour le développement de la base logicielle libre et ouverte.
+- **[BigTreeTech](https://github.com/bigtreetech)** : pour les configurations matérielles (carte mère pwd silencieuse).
+- **Modifications personnalisées** : développées et optimisées spécifiquement pour la Creality Ender 3 Pro.
 
 ## License
 
