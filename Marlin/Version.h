@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "4.7 - Kad"
+#define SHORT_BUILD_VERSION "4.8 - Kad"
 
 /**
  * Verbose version identifier which should contain a reference to the location
