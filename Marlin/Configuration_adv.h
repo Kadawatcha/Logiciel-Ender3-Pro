@@ -2062,9 +2062,8 @@
  * the current position values. This feature is used primarily to adjust the Z
  * axis in the first layer of a print in real-time.
  *
- * Warning: Does not respect endstops!
- */
-//#define BABYSTEPPING
+ * Warning: Does not respect endstops!*/
+#define BABYSTEPPING
 #if ENABLED(BABYSTEPPING)
   //#define INTEGRATED_BABYSTEPPING         // EXPERIMENTAL integration of babystepping into the Stepper ISR
   //#define BABYSTEP_WITHOUT_HOMING
