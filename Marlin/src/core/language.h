@@ -88,7 +88,7 @@
   #define MACHINE_NAME DEFAULT_MACHINE_NAME
 #endif
 
-#define MARLIN_WEBSITE_URL "marlinfw.org"
+#define MARLIN_WEBSITE_URL "github.com/kadawatcha"
 
 //#if !defined(STRING_SPLASH_LINE3) && defined(WEBSITE_URL)
 //  #define STRING_SPLASH_LINE3 WEBSITE_URL
